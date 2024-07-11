@@ -4,7 +4,7 @@
 This project is a Golang gRPC service for managing user details and includes a search capability.
 
 ## Project Structure
-
+```
 grpc-user-service/
 ├── cmd/
 │   └── server/
@@ -19,7 +19,7 @@ grpc-user-service/
 ├── go.mod
 ├── go.sum
 └── README.md
-
+```
 ## Prerequisites
 
 1. **Install Protocol Buffers Compiler (`protoc`):**
